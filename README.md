@@ -70,13 +70,17 @@
 
 ## 安装
 
-### 方式一：NewMax（推荐，一个激活码搞定）
+### 方式一：NewMax（推荐，激活码一键装）
 
 [NewMax](https://newmax.cc) 是一个中文优先的 AI 工作助手（基于 Claude Code），Mac / Windows 桌面端。
 
-1. 前往 **[newmax.cc](https://newmax.cc)** 下载并安装客户端
-2. 打开 NewMax，点击侧栏的 **「Skill 管理」**（商店图标）
-3. 使用下面这个激活码安装本 Skill：
+**Step 1.** 前往 **[newmax.cc](https://newmax.cc)** 下载并安装客户端。
+
+**Step 2.** 打开 NewMax，点击侧栏的 **「Skill 管理」**（商店图标，侧栏顶部第四个）。
+
+**Step 3.** 在 **Skill 市场** 页面，点右上角的 **「Skill 激活码」** 按钮（票券图标，在「创建 Skill」左边）。
+
+**Step 4.** 弹窗标题是 **「兑换 Skill 激活码」**，把下面这串粘进输入框，点 **「兑换」**：
 
 ```
 NMC-8PRQ-AXTS-DAJQ
@@ -84,7 +88,13 @@ NMC-8PRQ-AXTS-DAJQ
 
 <!-- SCREENSHOT_SLOT: docs/images/newmax-activate.png -->
 
-4. 安装完成后在「我的 Skill」中可以看到，直接在对话里描述你的战略问题即可自动触发；也可以输入 `/` 手动选择。
+**Step 5.** 提示「已激活创作者，新 Skill 已加入市场」后，Skill 市场**右侧会多出一个创作者 tab**，在里面找到「孙子兵法战略顾问」点安装即可。
+
+> 💡 激活码兑换的是**创作者身份**，不是单个 Skill——兑换后该创作者的全部 Skill 都会出现在那个 tab 里。
+>
+> 如果右上角没有「Skill 激活码」按钮，说明客户端版本偏旧，更新到最新版即可。
+
+装好之后直接在对话里描述你的战略问题就会自动触发；也可以输入 `/` 手动选择。
 
 ### 方式二：Claude Code / Claude Desktop（手动安装）
 
